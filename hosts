@@ -1,5 +1,8 @@
-# Title: Hosts contributed by kioan
+# Hosts file contributed by kioan
 # Source: https://github.com/kioan/hosts
+
+# This list is compiled from malicious hosts found mainly
+# in phishing emails targeting Greek Internet users.
 
 0.0.0.0 alphabank-greece.eu
 0.0.0.0 kamchatdom.ru
@@ -11,3 +14,5 @@
 0.0.0.0 sendgrid.net
 0.0.0.0 mygovgr.web.app
 0.0.0.0 elta-paypackages.web.app
+0.0.0.0 greece-elta.web.app
+0.0.0.0 ethnikitrapeza-grr.godaddysites.com
