@@ -4,12 +4,14 @@
 # This list is compiled from malicious hosts found mainly
 # in phishing emails targeting Greek Internet users.
 
+0.0.0.0 1d05nb7gadib7237643241jsuqba8k.com
 0.0.0.0 9hym.com
 0.0.0.0 agriava.com
 0.0.0.0 alphabank-greece.eu
 0.0.0.0 alvaovillagecamping.pt
 0.0.0.0 angloextrema.com.br
 0.0.0.0 centraldalespharmacy.co.uk
+0.0.0.0 cpanel12wh.bkk1.cloud.z.com
 0.0.0.0 ct.sendgrid.net
 0.0.0.0 elta-payit.web.app
 0.0.0.0 elta-paymypacket.firebaseapp.com
