@@ -4,6 +4,7 @@
 # This list is compiled from malicious hosts found mainly
 # in phishing emails targeting Greek Internet users.
 
+
 0.0.0.0 1d05nb7gadib7237643241jsuqba8k.com
 0.0.0.0 9hym.com
 0.0.0.0 agriava.com
@@ -12,12 +13,21 @@
 0.0.0.0 angel-tn.idv.tw
 0.0.0.0 angloextrema.com.br
 0.0.0.0 atashelement.ir
+0.0.0.0 brittknight.com
 0.0.0.0 centraldalespharmacy.co.uk
+0.0.0.0 chawkyfrenn.com
+0.0.0.0 chist.com
+0.0.0.0 christplanet.com
 0.0.0.0 coinkub.com
 0.0.0.0 conceptagency.net
 0.0.0.0 cpanel12wh.bkk1.cloud.z.com
 0.0.0.0 cpcwiki.de
 0.0.0.0 ct.sendgrid.net
+0.0.0.0 cubicegg.asia
+0.0.0.0 cultura.educad.pe
+0.0.0.0 darwinistic.com/icon
+0.0.0.0 demo.cansunoto.com
+0.0.0.0 devinagallagher.com
 0.0.0.0 elta-payit.web.app
 0.0.0.0 elta-paymypacket.firebaseapp.com
 0.0.0.0 elta-paymypacket.web.app
@@ -28,10 +38,12 @@
 0.0.0.0 grp-elta-couriera-rgr.de.cool
 0.0.0.0 handyfix.co.nz
 0.0.0.0 helpeve.com
+0.0.0.0 helpeve.com
 0.0.0.0 hsweixintp.com
 0.0.0.0 info309mar.wixsite.com
 0.0.0.0 innkhabar.com
 0.0.0.0 kamchatdom.ru
+0.0.0.0 lasandbox3.com
 0.0.0.0 log-euro-gr.com
 0.0.0.0 log-eurobank-gr.com
 0.0.0.0 med-star.gr
@@ -55,5 +67,6 @@
 0.0.0.0 u29570188.ct.sendgrid.net
 0.0.0.0 www.3d-stickers.com
 0.0.0.0 www.spinbalence.com
+0.0.0.0 yesdeko.com
 0.0.0.0 yuanliao.raluking.com
 0.0.0.0 ziz4.trk.elasticemail.com
