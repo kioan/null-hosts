@@ -1,5 +1,5 @@
 # Hosts file contributed by kioan
-# Source: https://github.com/kioan/hosts
+# Source: https://github.com/kioan/null-hosts
 
 # This list is compiled from malicious hosts found mainly
 # in phishing emails targeting Greek Internet users.
@@ -26,6 +26,7 @@
 0.0.0.0 centraldalespharmacy.co.uk
 0.0.0.0 chappals.pk
 0.0.0.0 chawkyfrenn.com
+0.0.0.0 childhealthcare.xyz
 0.0.0.0 chist.com
 0.0.0.0 christplanet.com
 0.0.0.0 coinkub.com
