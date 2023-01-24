@@ -4,6 +4,7 @@
 # This list contains known malicious hosts or hosts linking to malicious sites,
 # mainly found in phishing emails targeting Greek Internet users.
 
+
 0.0.0.0 1d05nb7gadib7237643241jsuqba8k.com
 0.0.0.0 806928.selcdn.ru
 0.0.0.0 9hym.com
@@ -121,6 +122,7 @@
 0.0.0.0 med-star.gr
 0.0.0.0 mediaforsupport.cf
 0.0.0.0 mehavi.com
+0.0.0.0 meradiwanaonline.info
 0.0.0.0 mobifonesms.com
 0.0.0.0 mondodelmare.com
 0.0.0.0 monitoring4energy.cz
