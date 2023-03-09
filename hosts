@@ -4,7 +4,6 @@
 # This list contains known malicious hosts or hosts linking to malicious sites,
 # mainly found in phishing emails targeting Greek Internet users.
 
-
 0.0.0.0 1d05nb7gadib7237643241jsuqba8k.com
 0.0.0.0 806928.selcdn.ru
 0.0.0.0 9hym.com
@@ -122,6 +121,7 @@
 0.0.0.0 loadup1.ukit.me
 0.0.0.0 log-euro-gr.com
 0.0.0.0 log-eurobank-gr.com
+0.0.0.0 luxoura.com
 0.0.0.0 ly.yjlianyi.top
 0.0.0.0 mabstescrow.comkeonline.iamicaniwill.me
 0.0.0.0 mail.healthymerlin.com
@@ -187,6 +187,7 @@
 0.0.0.0 riviera.ge
 0.0.0.0 rsregs.com
 0.0.0.0 ruitaiwz.com
+0.0.0.0 rumosnovos.org
 0.0.0.0 sagardotegi.eu
 0.0.0.0 sat7ate.com
 0.0.0.0 sbm.xinmoshiwang.com
