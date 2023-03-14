@@ -4,12 +4,14 @@
 # This list contains known malicious hosts or hosts linking to malicious sites,
 # mainly found in phishing emails targeting Greek Internet users.
 
+
 0.0.0.0 1d05nb7gadib7237643241jsuqba8k.com
 0.0.0.0 328drt8298846gh9.blogspot.com
 0.0.0.0 806928.selcdn.ru
 0.0.0.0 9hym.com
 0.0.0.0 aade-69b17.web.app
 0.0.0.0 actionmediaonline.andymurrayonline.com
+0.0.0.0 agenciateima.com
 0.0.0.0 agriava.com
 0.0.0.0 akdental.ro
 0.0.0.0 alphabank-greece.eu
@@ -158,6 +160,7 @@
 0.0.0.0 nbg-staff-security.builderallwppro.com
 0.0.0.0 nbg.i-bank.b0xtch.com
 0.0.0.0 nbgibank.godaddysites.com
+0.0.0.0 nesinger.com
 0.0.0.0 neyh5b.livexagro.com
 0.0.0.0 nksvasiliades.com
 0.0.0.0 notarius.wemade.no
