@@ -1,6 +1,5 @@
 # Hosts file contributed by kioan
 # Source: https://github.com/kioan/null-hosts
-
 # This list contains known malicious hosts or hosts linking to malicious sites,
 # mainly found in phishing emails targeting Greek Internet users.
 
@@ -58,7 +57,6 @@
 0.0.0.0 coinkub.com
 0.0.0.0 comingoutwomen.org
 0.0.0.0 conceptagency.net
-0.0.0.0 conceptagency.net
 0.0.0.0 consultant-res.ro
 0.0.0.0 copunupo.ac.zm
 0.0.0.0 cosmote.site
@@ -67,7 +65,6 @@
 0.0.0.0 cross-webmedia.com
 0.0.0.0 cubicegg.asia
 0.0.0.0 cultura.educad.pe
-0.0.0.0 cupidcompusoft.com
 0.0.0.0 cupidcompusoft.com
 0.0.0.0 dakdekkerharlingen.nl
 0.0.0.0 darwinistic.com
@@ -187,7 +184,6 @@
 0.0.0.0 myelta-paypacket.web.app
 0.0.0.0 mygovgr.web.app
 0.0.0.0 navylin.com
-0.0.0.0 navylin.com
 0.0.0.0 nbg-app.wexbo.com
 0.0.0.0 nbg-login.antigentest.net
 0.0.0.0 nbg-login.navistarcumminskenworthdetroit.com
@@ -230,7 +226,6 @@
 0.0.0.0 psobwzutgv2fc33bp50bdm29.i-learnfrench2day.com
 0.0.0.0 pypelteamticket2874055.site
 0.0.0.0 qulino.nl
-0.0.0.0 qulinokitchenware.com
 0.0.0.0 qulinokitchenware.com
 0.0.0.0 rawshootproduction.com
 0.0.0.0 recovery.arialadvertising.com
@@ -299,7 +294,6 @@
 0.0.0.0 www.cebicheros.com
 0.0.0.0 www.dominios.myscriptcase.com
 0.0.0.0 www.evanpetersbr.com
-0.0.0.0 www.evanpetersbr.com
 0.0.0.0 www.facture-paye-post.s-pankii.services
 0.0.0.0 www.hereiamlive.com
 0.0.0.0 www.holding-kemph.com
@@ -317,7 +311,6 @@
 0.0.0.0 www.ibank.nbg.gr.rentthebounce.com
 0.0.0.0 www.ibank.nbg.gr.usvirtualdocs.com
 0.0.0.0 www.komakougei.com
-0.0.0.0 www.laundrikart.com
 0.0.0.0 www.laundrikart.com
 0.0.0.0 www.nysafp.com
 0.0.0.0 www.pcglasses.com
