@@ -1,8 +1,11 @@
-# Hosts file contributed by kioan
+# Malicious FQDN hosts file
+#
 # Source: https://github.com/kioan/null-hosts
-# This list contains known malicious hosts or hosts linking to malicious sites,
-# mainly found in phishing emails targeting Greek Internet users.
-
+#
+# Description: This list contains fully qualified domain names (FQDNs) associated 
+# with malicious activities, including phishing attempts and links to harmful websites.
+# They are collected from various sources such as phishing emails, web access logs, 
+# and other suspicious activities.
 
 
 0.0.0.0 1138c9c.netsolhost.com
