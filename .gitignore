@@ -1,2 +1,5 @@
-tools
 tools/venv
+tools/**/__pycache__
+tools/__pycache__
+tools/**/*.pyc
+tools/.pytest_cache

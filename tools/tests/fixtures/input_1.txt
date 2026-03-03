@@ -1,0 +1,8 @@
+# This is a comment line
+#  and another comment line
+
+
+
+0.0.0.0 def.example.com
+0.0.0.0 abc.example.com
+0.0.0.0 abc.example.com
