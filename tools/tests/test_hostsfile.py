@@ -251,6 +251,14 @@ class TestFromInputFile:
         assert len(nh.hosts) == 0
         assert stats["invalid"] == 1
 
+    def test_trailing_dot_logs_warning(self, tmp_path, caplog):
+        import logging
+        p = tmp_path / "hosts"
+        p.write_text("0.0.0.0 evil.com.\n", encoding="utf-8")
+        with caplog.at_level(logging.WARNING, logger="hostscrub.hostsfile"):
+            NullHostsFile.from_input_file(p)
+        assert any("evil.com." in msg for msg in caplog.messages)
+
 
 # ---------------------------------------------------------------------------
 # render

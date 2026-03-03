@@ -44,12 +44,12 @@ Useful as a pre-commit check — see [Git hook](#git-pre-commit-hook) below.
 
 ## Options
 
-| Option | Description |
-|--------|-------------|
-| `filename` | Path to the hosts file (required) |
+| Option           | Description                                                |
+| ---------------- | ---------------------------------------------------------- |
+| `filename`       | Path to the hosts file (required)                          |
 | `-o`, `--output` | Write output to this file instead of overwriting the input |
-| `--check` | Check only — exit 1 if changes are needed, exit 0 if clean |
-| `--no-backup` | Skip creating a `.bak` backup when writing in-place |
+| `--check`        | Check only — exit 1 if changes are needed, exit 0 if clean |
+| `--no-backup`    | Skip creating a `.bak` backup when writing in-place        |
 
 ## What it does
 

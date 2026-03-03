@@ -50,11 +50,13 @@ class NullHostsFile:
             if cls.is_comment(line_content):
                 header.append(cls.format_comment(line_content))
             elif cls.is_nullhost_entry(stripped_line):
-                # Normalize: strip trailing dot and lowercase (DNS is case-insensitive)
-                host = stripped_line.split()[1].rstrip(".").lower()
+                raw_host = stripped_line.split()[1]
+                host = raw_host.rstrip(".").lower()
+                if raw_host.endswith("."):
+                    logger.warning(f"L{line_number}: Trailing dot removed from: '{raw_host}'")
                 if host in hosts:
                     duplicates += 1
-                    logger.warning(f"L{line_number}: Duplicate entry ignored: '{host}'")
+                    logger.warning(f"L{line_number}: Duplicate entry removed: '{host}'")
                 else:
                     hosts.add(host)
             else:
