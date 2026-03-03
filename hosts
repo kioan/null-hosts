@@ -1,7 +1,7 @@
 # Malicious FQDN hosts file
-# 
+#
 # Source: https://github.com/kioan/null-hosts
-# 
+#
 # Description: This list contains fully qualified domain names (FQDNs) associated
 # with malicious activities, including phishing attempts and links to harmful websites.
 # They are collected from various sources such as phishing emails, web access logs,
@@ -186,6 +186,7 @@
 0.0.0.0 elta-paymypacket.web.app
 0.0.0.0 elta-paypackages.web.app
 0.0.0.0 eltcollecsnow.sviluppo.host
+0.0.0.0 email.notify.thinkific.com
 0.0.0.0 emineozgur.com
 0.0.0.0 eobrndvhdrf.com
 0.0.0.0 es.brophyworld.com
@@ -390,6 +391,7 @@
 0.0.0.0 msfinvest.com.br
 0.0.0.0 msvdn.net
 0.0.0.0 mufackoopt.net
+0.0.0.0 myalphaweb.schutzkundenservice.org
 0.0.0.0 myccbca.com
 0.0.0.0 myelta-info.web.app
 0.0.0.0 myelta-parcel.laundrikart.com
@@ -474,7 +476,6 @@
 0.0.0.0 panel.sarangmadukuofficial.com
 0.0.0.0 panorama.solutions
 0.0.0.0 parteinroll.xyz
-0.0.0.0 participationwhitehandwriting
 0.0.0.0 participationwhitehandwriting.com
 0.0.0.0 pashulroak.net
 0.0.0.0 pauleeroupsacu.net
@@ -501,7 +502,6 @@
 0.0.0.0 pseexauboorsu.com
 0.0.0.0 psobwzutgv2fc33bp50bdm29.i-learnfrench2day.com
 0.0.0.0 ptaujursissain.net
-0.0.0.0 myalphaweb.schutzkundenservice.org
 0.0.0.0 ptirsuckais.com
 0.0.0.0 ptmrwgfsvv.com
 0.0.0.0 purevaluesolutions.world
@@ -736,7 +736,3 @@
 0.0.0.0 zidreersatsy.com
 0.0.0.0 ziz4.trk.elasticemail.com
 0.0.0.0 zoogoucaitakast.net
-0.0.0.0 img.transistorcdn.com
-0.0.0.0 cloudflare-ech.com
-0.0.0.0 ey43.com
-0.0.0.0 email.notify.thinkific.com
