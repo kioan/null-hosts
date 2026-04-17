@@ -1,7 +1,7 @@
 # Malicious FQDN hosts file
-# 
+#
 # Source: https://github.com/kioan/null-hosts
-# 
+#
 # Description: This list contains fully qualified domain names (FQDNs) associated
 # with malicious activities, including phishing attempts and links to harmful websites.
 # They are collected from various sources such as phishing emails, web access logs,
@@ -491,6 +491,7 @@
 0.0.0.0 platinumai.net
 0.0.0.0 poasafaris.co.ke
 0.0.0.0 pokastaiptoalto.com
+0.0.0.0 polettoautocenter.com.br
 0.0.0.0 poplardealtcarrying.com
 0.0.0.0 portal-auth.websitepro.hosting
 0.0.0.0 portal-rudoe.com
